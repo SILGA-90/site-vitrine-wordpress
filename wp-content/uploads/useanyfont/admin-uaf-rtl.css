@@ -1,0 +1,11 @@
+				@font-face {
+					font-family: 'karantina';
+					src: url('/POJET-CLONE/wordpress/wp-content/uploads/useanyfont/7624karantina.woff2') format('woff2'),
+						url('/POJET-CLONE/wordpress/wp-content/uploads/useanyfont/7624karantina.woff') format('woff');
+				}
+
+				.karantina{font-family: 'karantina' !important;}
+
+				.et_gf_karantina{background:none !important;font-family:karantina;text-indent:0 !important;font-size:25px;}
+
+		
